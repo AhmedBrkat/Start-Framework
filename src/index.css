@@ -1,0 +1,36 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+
+    background-color: #1ABC9C !important;
+    border-radius: 10px;
+
+}
+.fa-plus{
+  opacity: 0;
+  transition: 0.3s;
+  background-color: #1abc9c !important;
+  border-radius: 9px !important;
+  
+}
+.conCard:hover .fa-plus {
+opacity: 0.6;
+}
+.opsword{
+  position: absolute;
+  top: 75%;
+  font-size: 40px;
+}
+.opsword2{
+  position: absolute;
+  top: 85%;
+  font-size: 20px;
+}
+.opsword3{
+  position: absolute;
+  top: 92%;
+  font-size: 20px;
+}
+.opsword4{
+  font-size: 25px;
+  font-weight: 600;
+  text-shadow: 2px 0px  white;
+}

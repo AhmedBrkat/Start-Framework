@@ -1,0 +1,32 @@
+.headA{
+padding-top: 160px !important;
+font-size: 40px !important;
+color: rgb(44, 62, 80) !important;
+font-weight: 700;
+
+
+}
+
+.divider {
+  padding: 20px 0 !important;
+}
+
+.divider .line {
+  width: 85px !important;
+  height: 3.5px !important;
+  background-color: rgb(44, 62, 80) !important;
+}
+
+.divider i {
+  font-size: 15px !important;
+ color: rgb(44, 62, 80) !important;
+
+}
+.carad{
+    height: 300px !important;
+    
+}
+.AbCon{
+ background-color: #1ABC9C !important;
+
+}

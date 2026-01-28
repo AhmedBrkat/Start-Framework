@@ -1,0 +1,25 @@
+.headA{
+padding-top: 160px !important;
+
+}
+.divider {
+  padding: 20px 0 !important;
+}
+
+.divider .line {
+  width: 100px !important;
+  height: 5px !important;
+  background-color: black !important;
+}
+
+.divider i {
+  font-size: 20px !important;
+}
+.allinput{
+    border: none !important;
+}
+.btnColor{
+    background-color: #1ABC9C !important;
+    color: white !important;
+    margin-top: 20px !important;
+}
